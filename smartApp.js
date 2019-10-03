@@ -26,7 +26,7 @@ function weather(city) {
         return "28C / 82F"
     } else if (city==='Rome'){
         return "16C / 60F"
-    } else if (city==='Mexico City'){
+    } else if (city==='MexicoCity'){
         return "22C / 71F"
     } else if (city==='Tashkent'){
         return "17C / 63F"
