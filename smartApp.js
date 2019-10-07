@@ -10,29 +10,29 @@ function weather(city, temperatureType) {
         case 'istanbul':
             return temperatureType === 'fahrenheit' ? 'Istanbul 71F' : 'Istanbul 22C';
         case 'london':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'London 55F' : 'London 13C';
         case 'nyc':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'New York 73F' : 'New York 23C';
         case 'tokyo':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Tokyo 75F' : 'Tokyo 24C';
         case 'hongkong':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Hong Kong 84F' : 'Hong Kong 29C';
         case 'paris':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Paris 54F' : 'Paris 12C';
         case 'moscow':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Moscow 60F' : 'Moscow 16C';
         case 'shanghai':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Shanghai 74F' : 'Shanghai 23C';
         case 'barcelona':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Barcelona 72F' : 'Barcelona 22C';
         case 'mumbai':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Mumbai 82F' : 'Mumbai 28C';
         case 'rome':
-            return '13C / 55F';  
-        case 'mexicocity':
-            return '13C / 55F';   
+            return temperatureType === 'fahrenheit' ? 'Rome 60F' : 'Rome 16C';
+        case 'ankara':
+            return temperatureType === 'fahrenheit' ? 'Ankara 67F' : 'Ankara 19C';
         case 'tashkent':
-            return '13C / 55F';
+            return temperatureType === 'fahrenheit' ? 'Tashkent 63F' : 'Tashkent 17C';
         default: "Apologies. Unfortunately we have not been able to obtain the weather information for your chosen city. Please try again later. Much love."
     }
 }
