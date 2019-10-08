@@ -33,10 +33,14 @@ If you look at the examples below, you will notice that smart app is not case se
 <a href="https://ibb.co/M9pNHK9"><img src="https://i.ibb.co/hCH8NrC/Screen-Shot-2019-10-07-at-11-05-07-PM.png" alt="Screen-Shot-2019-10-07-at-11-05-07-PM" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
 </a><br /><a href="https://ibb.co/vz832xR"><img src="https://i.ibb.co/WK1kSWj/Screen-Shot-2019-10-07-at-11-04-42-PM.png" alt="Screen-Shot-2019-10-07-at-11-04-42-PM" border="0"></a><br /><a target='_blank' href='https://babynamesetc.com/warrior'></a><br />
 
-
-
-###  What was used to build it
+##  What was used to build it
 * Javascript
 * Terminal
 * Node
 * Outside data from Google
+
+## Author 
+This amazing app is made by Busra Sariguzel. 
+
+## Disclaimer
+Temperature data was gathered on the day the app was made. Stay tuned for a potential live weather update feature in the near future! 
