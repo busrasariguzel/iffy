@@ -34,8 +34,6 @@ function weather(city, temperatureType) {
         case 'tashkent':
             return temperatureType === 'fahrenheit' ? 'Tashkent 63F' : 'Tashkent 17C';
         default :return  "Apologies. Unfortunately we have not been able to obtain the weather information for your chosen city. Please try again later. Much love." 
-        
-        
     }
 
 }
