@@ -39,7 +39,8 @@ If you look at the examples below, you will notice that smart app is not case se
 * Node
 * Outside data from Google
 
-
+## Author
+This amazing app was made by Busra Sariguzel. All rights reserved!
 
 ## Disclaimer
 Temperature data was gathered on the day the app was made. Stay tuned for a potential live weather update feature in the near future! 
